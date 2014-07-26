@@ -17,9 +17,9 @@
     "url": "https://github.com/khalifenizar/robots.git"
   },
   "scripts": {
+    "start": "nodebot-workshop",
     "print": "nodebot-workshop print",
-    "blink": "nodebot-workshop run 01-blink-blink.js",
-    "verify-blink": "nodebot-workshop verify 01-blink-blink.js",
-    "start": "nodebot-workshop"
+    "blink": "nodebot-workshop verify 01-blink-blink.js",
+    "servo": "nodebot-workshop verify 02-servo.js"
   }
 }
