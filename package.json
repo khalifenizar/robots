@@ -7,6 +7,7 @@
     "url": "https://github.com/khalifenizar/robots/issues"
   },
   "dependencies": {
+    "johnny-five": "^0.8.2",
     "nodebot-workshop": "^2.2.1"
   },
   "homepage": "https://github.com/khalifenizar/robots",
@@ -17,6 +18,8 @@
   },
   "scripts": {
     "print": "nodebot-workshop print",
+    "blink": "nodebot-workshop run 01-blink-blink.js",
+    "verify-blink": "nodebot-workshop verify 01-blink-blink.js",
     "start": "nodebot-workshop"
   }
 }
