@@ -6,10 +6,17 @@
   "bugs": {
     "url": "https://github.com/khalifenizar/robots/issues"
   },
+  "dependencies": {
+    "nodebot-workshop": "^2.2.1"
+  },
   "homepage": "https://github.com/khalifenizar/robots",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/khalifenizar/robots.git"
+  },
+  "scripts": {
+    "print": "nodebot-workshop print",
+    "start": "nodebot-workshop"
   }
 }
