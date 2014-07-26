@@ -1,0 +1,15 @@
+{
+  "name": "robots",
+  "description": "Hardware hacking.",
+  "version": "0.0.0",
+  "author": "Nizar Khalife Iglesias <khalifenizar@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/khalifenizar/robots/issues"
+  },
+  "homepage": "https://github.com/khalifenizar/robots",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khalifenizar/robots.git"
+  }
+}
