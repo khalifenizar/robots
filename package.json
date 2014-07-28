@@ -20,6 +20,7 @@
     "start": "nodebot-workshop",
     "print": "nodebot-workshop print",
     "blink": "nodebot-workshop verify 01-blink-blink.js",
-    "servo": "nodebot-workshop verify 02-servo.js"
+    "servo": "nodebot-workshop verify 02-servo.js",
+    "motor": "nodebot-workshop verify 03-motor.js"
   }
 }
